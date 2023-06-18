@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AI App</string>
+
+    <string name="movie_image">Movie Image</string>
+    <string name="home_title">Leaderboard</string>
+    <string name="region_tab_title">Region</string>
+    <string name="national_tab_title">National</string>
+    <string name="global_tab_title">Global</string>
+
+</resources>
